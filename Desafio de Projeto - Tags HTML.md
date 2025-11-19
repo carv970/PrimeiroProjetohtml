@@ -1,8 +1,3 @@
-Desafio de Projeto - Tags HTML
-
-PrimeiroProjeto_HTML
-desafio 1
-
 <title>Desafio de Projeto - Tags HTML</title>
 <header>
     <h1>🚀 Título Principal do Website (H1)</h1>
